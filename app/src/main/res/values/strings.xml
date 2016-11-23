@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileUpload</string>
+    <string name="image_chooser">Select image </string>
+</resources>
